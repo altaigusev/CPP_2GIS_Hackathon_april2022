@@ -1,0 +1,3 @@
+sequence of length = 3 found at haystack offset 9, needle offset 0
+sequence of length = 5 found at haystack offset 27, needle offset 1
+sequence of length = 5 found at haystack offset 38, needle offset 2
