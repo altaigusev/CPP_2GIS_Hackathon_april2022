@@ -1,6 +1,6 @@
 # CPP_2GIS_Hackathon_april2022
 Task and solution
-# Coding Test: data search
+## Coding Test: data search
 
 Для быстрого запуска проекта присутствуют стадии сборки all, clean, test, timetest, example, gcov_report
 
